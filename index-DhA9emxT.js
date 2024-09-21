@@ -46,8 +46,8 @@ Error generating stack: `+o.message+`
 
                      ${(i==null?void 0:i.index)===L&&"opacity-10"}
 
-                     ${S===L&&"fill-[#213c25]"}
+                     ${S===L&&"!fill-[#213c25]"}
 
-                     ${p===L&&"fill-[#2e3a30]"}
+                     ${p===L&&"!fill-[#2e3a30]"}
 
                   stroke-zinc-400 stroke-[0.1]	hover:opacity-80 transition-all duration-200 cursor-pointer`,q:m.q,r:m.r,s:m.s,children:K.jsx(lp,{children:s&&(i==null?void 0:i.index)===L?je:m.piece})},L))})})})]})};function ip(){return K.jsx("div",{className:"App",children:K.jsx(op,{})})}cc(document.getElementById("root")).render(K.jsx(G.StrictMode,{children:K.jsx(ip,{})}));
